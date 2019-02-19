@@ -8,4 +8,4 @@ url: "https://quickbeam.github.io"
 markdown: kramdown
 permalink: pretty
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
